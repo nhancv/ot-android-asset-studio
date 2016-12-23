@@ -16,7 +16,7 @@
 
 rm -rf _gh-pages/*
 mkdir -p _gh-pages/js
-mkdir -p _gh-pages/lib
+#mkdir -p _gh-pages/lib
 mkdir -p _gh-pages/css
 
 cd src/
